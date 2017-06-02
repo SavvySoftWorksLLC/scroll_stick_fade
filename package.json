@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "materialize-css": "^0.98.2",
+    "savvy-styles": "git+ssh://git@github.com/SavvySoftWorksLLC/SavvyStyles.git"
+  }
+}
